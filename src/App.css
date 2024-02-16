@@ -1,0 +1,43 @@
+* {
+    background-color: grey;
+    color: white;
+    font-family: Verdana;
+    text-align: center;
+}
+
+.game{
+    margin-top: 200px;
+}
+
+.odpowiedz{
+    color: rgb(255, 194, 27);
+}
+
+input {
+    align-items: center;
+    background: white;
+    color: black;
+    border-radius: 20px 0px 0px 20px;
+    padding: 10px;
+    border: none;
+}
+
+#wyslij{
+    align-items: center;
+    background: rgb(255, 194, 27);
+    border-radius: 0px 20px 20px 0px;
+    padding: 10px;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+#start{
+    align-items: center;
+    background: rgb(255, 194, 27);
+    border-radius: 20px;
+    padding: 10px;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
